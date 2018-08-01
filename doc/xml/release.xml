@@ -36,6 +36,10 @@
 
                 <release-development-list>
                     <release-item>
+                        <p>Add gzip compression/decompression filters for C.</p>
+                    </release-item>
+
+                    <release-item>
                         <release-item-contributor-list>
                             <release-item-ideator id="frost.stephen"/>
                             <release-item-reviewer id="frost.stephen"/>
