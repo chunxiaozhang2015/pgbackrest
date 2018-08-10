@@ -76,7 +76,7 @@ testDecompress(GzipDecompress *decompress, Buffer *compressed, size_t inputSize,
 Test Run
 ***********************************************************************************************************************************/
 void
-testRun()
+testRun(void)
 {
     FUNCTION_HARNESS_VOID();
 
